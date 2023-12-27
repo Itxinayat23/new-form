@@ -1,0 +1,72 @@
+<html>
+<head>
+
+
+<title>new registration form</title>
+
+<body style="background-color:lightgreen">
+
+</head>
+
+<marquee behavior="scroll" direction="left">
+registration form </marquee>
+
+
+
+
+
+
+
+
+<h1>registration form</title>
+
+
+
+
+<form>
+
+
+
+Name <input type="tex"><br></br>
+
+Fname <input type="tex"><br></br>
+
+Cnic <input typ="tex"><br></br>
+
+</form>
+
+mele <input type="checkbox"> femle <input type="checkbox"><br></br>
+
+
+<fieldset> <legend>Contact details</legend> <label>Email:<br /> <input type="text" name="email" /></label><br /> <label>Mobile:<br /> <input type="text" name="mobile" 
+
+/></label><br /> <label>Telephone:<br /> <input type="text" name="telephone" /></label> </fieldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+
+<marquee behavior="scroll" direction="left">
+registration form </marquee>
